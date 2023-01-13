@@ -1,0 +1,25 @@
+.navbar{
+    background-color: #D70F64;
+    height: 60px;
+}
+.nav-menu{
+    margin-bottom:20px ;
+}
+.nav-menu .logo{
+    color: whitesmoke;
+    margin: auto 0 auto 0;
+}
+
+.nav-items .nav-link{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    margin: auto 0 auto 0;
+}
+
+.nav-items .nav-link:hover{
+    color: wheat;
+}
+.nav-menu .logo .logo-icon:hover{
+    color: wheat;
+}
