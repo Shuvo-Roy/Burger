@@ -6,7 +6,9 @@ const Main = props => {
   return (
     <div>
         <Header/>
-        <Burger/>
+        <div className='container'>
+          <Burger/>
+        </div>
     </div>
   )
 }
